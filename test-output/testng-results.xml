@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-27T09:12:32 GMT-04:00" name="Default suite" finished-at="2024-06-27T09:13:01 GMT-04:00" duration-ms="29003">
+    <groups>
+    </groups>
+    <test started-at="2024-06-27T09:12:32 GMT-04:00" name="Default test" finished-at="2024-06-27T09:13:01 GMT-04:00" duration-ms="29003">
+      <class name="com.qa.opencart.test.AccountsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.opencart.test.AccountsPageTest@793f29ff]" started-at="2024-06-27T09:12:32 GMT-04:00" name="setUp" finished-at="2024-06-27T09:12:51 GMT-04:00" duration-ms="19244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="accSetUp()[pri:0, instance:com.qa.opencart.test.AccountsPageTest@793f29ff]" started-at="2024-06-27T09:12:51 GMT-04:00" name="accSetUp" finished-at="2024-06-27T09:12:55 GMT-04:00" duration-ms="3909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accSetUp -->
+        <test-method signature="accPageHeadersTest()[pri:0, instance:com.qa.opencart.test.AccountsPageTest@793f29ff]" started-at="2024-06-27T09:12:55 GMT-04:00" name="accPageHeadersTest" finished-at="2024-06-27T09:12:56 GMT-04:00" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accPageHeadersTest -->
+        <test-method signature="accPageTitleTest()[pri:0, instance:com.qa.opencart.test.AccountsPageTest@793f29ff]" started-at="2024-06-27T09:12:56 GMT-04:00" name="accPageTitleTest" finished-at="2024-06-27T09:12:56 GMT-04:00" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accPageTitleTest -->
+        <test-method signature="accPageURLTest()[pri:0, instance:com.qa.opencart.test.AccountsPageTest@793f29ff]" started-at="2024-06-27T09:12:56 GMT-04:00" name="accPageURLTest" finished-at="2024-06-27T09:12:56 GMT-04:00" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accPageURLTest -->
+        <test-method signature="searchTest()[pri:0, instance:com.qa.opencart.test.AccountsPageTest@793f29ff]" started-at="2024-06-27T09:12:56 GMT-04:00" name="searchTest" finished-at="2024-06-27T09:13:01 GMT-04:00" duration-ms="4872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.test.AccountsPageTest@793f29ff]" started-at="2024-06-27T09:13:01 GMT-04:00" name="tearDown" finished-at="2024-06-27T09:13:01 GMT-04:00" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.test.AccountsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
